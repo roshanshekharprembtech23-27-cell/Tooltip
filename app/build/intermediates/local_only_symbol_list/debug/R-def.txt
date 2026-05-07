@@ -1,0 +1,18 @@
+R_DEF: Internal format may change without notice
+local
+color accent
+color black
+color primary
+color primary_dark
+color surface
+color text_primary
+color text_secondary
+color white
+id btn_start_tour
+id category_dropdown
+id feedback_input
+id submit_button
+layout activity_main
+raw tooltip_config
+string app_name
+style Theme.TooltipGuide

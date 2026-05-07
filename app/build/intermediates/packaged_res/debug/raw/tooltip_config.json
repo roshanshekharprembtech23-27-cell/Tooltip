@@ -1,0 +1,67 @@
+{
+  "steps": [
+    {
+      "id": "step_1",
+      "target": "feedback_input",
+      "title": "Share Your Feedback",
+      "subtitle": "Tap this field to type what you think about our app. Your input helps us improve!",
+      "cta": "Next",
+      "styling": {
+        "backdropOpacity": 0.65,
+        "arrowPosition": "auto",
+        "arrowColor": "#FFFFFF",
+        "ctaBackground": "#4CAF50",
+        "ctaTextColor": "#FFFFFF",
+        "ctaRadiusDp": 24,
+        "titleColor": "#1B1B1F",
+        "titleSizeSp": 18,
+        "subtitleColor": "#49454F",
+        "subtitleSizeSp": 14,
+        "cardBackground": "#FFFFFF",
+        "cardRadiusDp": 16
+      }
+    },
+    {
+      "id": "step_2",
+      "target": "category_dropdown",
+      "title": "Pick a Category",
+      "subtitle": "Select the category that best matches your feedback so we can route it to the right team.",
+      "cta": "Next",
+      "styling": {
+        "backdropOpacity": 0.65,
+        "arrowPosition": "auto",
+        "arrowColor": "#FFFFFF",
+        "ctaBackground": "#3F51B5",
+        "ctaTextColor": "#FFFFFF",
+        "ctaRadiusDp": 24,
+        "titleColor": "#3F51B5",
+        "titleSizeSp": 18,
+        "subtitleColor": "#49454F",
+        "subtitleSizeSp": 14,
+        "cardBackground": "#FFFFFF",
+        "cardRadiusDp": 16
+      }
+    },
+    {
+      "id": "step_3",
+      "target": "submit_button",
+      "title": "Submit Your Response",
+      "subtitle": "Once you're happy with your feedback, hit this button to send it to us. Thank you!",
+      "cta": "Got it!",
+      "styling": {
+        "backdropOpacity": 0.65,
+        "arrowPosition": "auto",
+        "arrowColor": "#FFFFFF",
+        "ctaBackground": "#FF5722",
+        "ctaTextColor": "#FFFFFF",
+        "ctaRadiusDp": 24,
+        "titleColor": "#BF360C",
+        "titleSizeSp": 18,
+        "subtitleColor": "#49454F",
+        "subtitleSizeSp": 14,
+        "cardBackground": "#FFFFFF",
+        "cardRadiusDp": 16
+      }
+    }
+  ]
+}

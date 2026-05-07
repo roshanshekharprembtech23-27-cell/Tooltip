@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.tooltipguide.app-merged_res-56:/raw_tooltip_config.json.flat",
+        "source": "com.example.tooltipguide.app-main-58:/raw/tooltip_config.json"
+    },
+    {
+        "merged": "com.example.tooltipguide.app-merged_res-56:/layout_activity_main.xml.flat",
+        "source": "com.example.tooltipguide.app-main-58:/layout/activity_main.xml"
+    }
+]
